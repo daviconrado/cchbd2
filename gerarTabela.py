@@ -3,8 +3,8 @@ import numpy as np
 
 # Dados
 labels = ['1','2','3','4','5']
-counts_no_index = [3.98, 9.34, 48.01, 48.35, 47.7]
-counts_with_index = [5.58, 8.73, 47.5, 46.16, 47.6]
+counts_no_index = [3.29, 3.28, 14.39, 9.18, 10.56]
+counts_with_index = [3.06, 2.83, 13.29, 7.43, 10.13]
 
 x = np.arange(len(labels))  # posição dos grupos
 width = 0.35  # largura das barras
